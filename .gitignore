@@ -1,0 +1,31 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+
+# Build
+public/css/main.css
+
+# Ignorar el .env al subir a producción
+
+# Dependencias
+node_modules
+bower_components
+
+# Editores
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
